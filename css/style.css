@@ -1,0 +1,14 @@
+body{
+    background-color: #161f1f;
+}
+
+.container{
+    text-align: justify;
+    color: #fff;
+    padding: 10px;
+}
+
+#carrossel{
+    margin: auto;
+    width: 900px;
+}
